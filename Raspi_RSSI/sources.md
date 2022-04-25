@@ -19,6 +19,7 @@ https://gist.github.com/bertrandmartel/1ffb4db727733647da89203db0454b52 [TRIED][
 https://github.com/kbobrowski/btlemon/tree/master/src [TRIED][Raspi_RSSI/ToBeAdded]
 https://github.com/damian-kolakowski/intel-edison-playground/blob/master/scan.c [TRIED][Raspi_RSSI/ToBeAdded]
 https://github.com/swodaemkram/BlueRssi [TRIED][which_iteration??]
+https://stackoverflow.com/questions/24037576/read-rssi-of-bluetooth-low-energy-beacon-using-bluez5
 https://bitbucket.org/kaylum/bluez-rssi-example/src/master/ [[TRIED][which_iteration??]] \
 
 C ) Mobile app links:
