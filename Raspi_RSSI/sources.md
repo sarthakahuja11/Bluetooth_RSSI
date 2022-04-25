@@ -28,7 +28,11 @@ https://github.com/davidgyoung/android-beacon-library-reference-kotlin
 https://github.com/Dieseled-UP/Bluetooth-Rssi
 https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt
 https://github.com/iDevicesInc/SweetBlue#getting-started
-https://github.com/kevindigi/android-iot-samples/blob/dev/app/src/main/java/com/digicorp/androidiotsamples/ble_distance/BLEDistanceActivity.java \
+https://github.com/kevindigi/android-iot-samples/blob/dev/app/src/main/java/com/digicorp/androidiotsamples/ble_distance/BLEDistanceActivity.java 
+https://punchthrough.com/android-ble-guide/ \
+https://blog.kuzzle.io/communicate-through-ble-using-flutter \
+https://github.com/aurasphere/blue-pair \
+https://github.com/Pixplicity/android-bluetooth-demo 
 
 D ) Mobile App and raspi testing:
 
