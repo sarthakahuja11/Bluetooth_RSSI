@@ -1,2 +1,2 @@
 # Bluetooth_RSSI
-A collection of codes to give RSSI values using bluetooth
+Different approaches to give RSSI values using bluetooth
